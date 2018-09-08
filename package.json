@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/magdsnail/fastify-upload-file#readme",
   "dependencies": {
-    "fastify": "^1.11.2",
     "fastify-file-upload": "^0.1.1"
   }
 }
