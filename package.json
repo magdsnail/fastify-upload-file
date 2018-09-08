@@ -1,0 +1,28 @@
+{
+  "name": "fastify-upload-file",
+  "version": "1.0.0",
+  "description": "fastify-upload-file",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magdsnail/fastify-upload-file.git"
+  },
+  "keywords": [
+    "fastify",
+    "upload",
+    "file"
+  ],
+  "author": "magsnail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magdsnail/fastify-upload-file/issues"
+  },
+  "homepage": "https://github.com/magdsnail/fastify-upload-file#readme",
+  "dependencies": {
+    "fastify": "^1.11.2",
+    "fastify-file-upload": "^0.1.1"
+  }
+}
